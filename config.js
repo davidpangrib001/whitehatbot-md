@@ -18,21 +18,21 @@ global.APIs = {
 }
 //═══════[api key of the website]════════\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'B6084A1B49', //Change This API KEY 
+	'https://zenzapis.xyz': '92872c80ec', //Change This API KEY 
 }
 
 //═══════[modification]════════\\
-global.owner = ['62895369318181'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['62895369318181'] //another owner number
-global.premium = ['62895369318181'] //premium number
-global.pengguna = 'AhmadChenDev' //username
-global.botnma = 'LulzGhost-Team' //bot name
-global.ownernma = '👻Anonim' //owner name
-global.packname = 'Koleksibot' //sticker package name
-global.author = 'By Koleksibot' //sticker author name
+global.owner = ['6282128475388'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['6282128475388'] //another owner number
+global.premium = ['6282160268332','6282128475388'] //premium number
+global.pengguna = 'One' //username
+global.botnma = 'One Botz' //bot name
+global.ownernma = 'David' //owner name
+global.packname = '𝖮𝗇𝖾 𝖡𝗈𝗍𝗓\nBuat Stikermu Disini:\nwa.me/6282128475388' //sticker package name
+global.author = '' //sticker author name
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
-global.sp = '⭔' //design
+global.prefa = ['#','!','/','','+'] //prefix
+global.sp = '⫹⫺' //design
 global.mess = {
     success: 'Berhasil ✓',
     admin: 'Perintah Hanya Di Gunakan Untuk Admin',
@@ -46,7 +46,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 28684 //free user limit
+    free: 100 //free user limit
 }
 global.thumb = fs.readFileSync('./Media/astapic.jpg')
 

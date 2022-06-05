@@ -1,7 +1,7 @@
 {
-  "name": "One Botz-MD",
-  "version": "0.612",
-  "description": "Colour Your Life.",
+  "name": "Asta-MD",
+  "version": "1.0.0",
+  "description": "Multi device wa bot created by nexusNw Inc.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
